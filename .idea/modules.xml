@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividadefacul/Atividadefacul.iml" filepath="$PROJECT_DIR$/Atividadefacul/Atividadefacul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ESTUDOS JAVA SPRINGBOOT.iml" filepath="$PROJECT_DIR$/.idea/ESTUDOS JAVA SPRINGBOOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPERADOR TERNARIO/OPERADOR TERNARIO.iml" filepath="$PROJECT_DIR$/OPERADOR TERNARIO/OPERADOR TERNARIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciofor/exerciciofor.iml" filepath="$PROJECT_DIR$/exerciciofor/exerciciofor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld2/helloworld2.iml" filepath="$PROJECT_DIR$/helloworld2/helloworld2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchcase/switchcase.iml" filepath="$PROJECT_DIR$/switchcase/switchcase.iml" />
+    </modules>
+  </component>
+</project>
